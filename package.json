@@ -1,0 +1,13 @@
+{
+  "name": "@iwbc/auto-generate-image-dts",
+  "version": "0.1.0",
+  "bin": {
+    "auto-generate-image-dts": "index.js"
+  },
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "chokidar": "^3.5.3"
+  },
+  "devDependencies": {}
+}
